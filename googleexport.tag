@@ -1,4 +1,4 @@
-https://www.google.com/search?q=%22Arterra+Wines+Canada%2C+Inc%22
+https://www.google.com/search?q=%22Arterra+Wines+Canada%2C+Inc%22+regulatory+site%3Alinkedin.com%2Fin%2F&sxsrf=ALeKk03GAglQCE4cyzj6y_xayh0LeX2pCg%3A1625659763152&ei=c5nlYNTXCP-M9u8P7MeNsAs&oq=%22Arterra+Wines+Canada%2C+Inc%22+regulatory+site%3Alinkedin.com%2Fin%2F
 if exist('/html/body/div[8]/div/div[10]/div[1]/div/div[4]/div[2]/div[2]/div/div[1]/div/div/div[1]/a/div')
  read /html/body/div[8]/div/div[10]/div[1]/div/div[4]/div[2]/div[2]/div/div[1]/div/div/div[1]/a/div to v1
 if exist('/html/body/div[8]/div/div[10]/div[1]/div/div[4]/div[2]/div[2]/div/div[1]/div/div/div[1]/a')
