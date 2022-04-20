@@ -8,4 +8,4 @@ if exist('.gsc-webResult.gsc-result:nth-child(1)')
  read .gsc-webResult.gsc-result:nth-child(1) to v3
 if exist('.gsc-webResult.gsc-result:nth-child(2)')
  read .gsc-webResult.gsc-result:nth-child(2) to v4
-write `csv_row([web,v1,v2,v3,v4])` to /content/drive/tocompanylinkedin.csv
+write `csv_row([web,v1,v2,v3,v4])` to tocompanylinkedin.csv
